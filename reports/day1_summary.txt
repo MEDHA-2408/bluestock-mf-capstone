@@ -1,0 +1,16 @@
+DAY 1 SUMMARY
+
+1. Created project folder structure.
+2. Installed Python dependencies.
+3. Loaded 10 mutual fund datasets.
+4. Performed data quality checks.
+5. Generated data_quality_summary.csv.
+6. Fetched live NAV data from mfapi.in.
+7. Downloaded NAV history for 6 mutual funds.
+8. Explored fund houses, categories and risk grades.
+9. Validated AMFI scheme codes against NAV history.
+
+RESULT:
+All 40 AMFI codes successfully matched with NAV history.
+No duplicate records found.
+Data ingestion phase completed successfully.

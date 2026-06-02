@@ -1,0 +1,26 @@
+DAY 2 SUMMARY – DATABASE DESIGN & DATA CLEANING
+
+1. Created SQLite database:
+   - mutual_fund.db
+
+2. Loaded datasets into SQLite:
+   - 17 tables successfully created
+
+3. Database Components:
+   - schema.sql
+   - queries.sql
+
+4. Data Cleaning:
+   - Removed duplicate records
+   - Handled missing values
+   - Standardized cleaned datasets
+
+5. Output:
+   - 17 cleaned CSV files generated in data/processed
+
+6. Validation:
+   - Database loading verified
+   - Data quality checks completed
+
+Status:
+Day 2 completed successfully.
