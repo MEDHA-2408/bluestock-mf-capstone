@@ -18,7 +18,7 @@
 - Portfolio Sector Allocation
 - Final EDA Summary
 
-## Day 4 - Fund Performance Analytics ✅
+## Day 4 - Fund Performance Analytics 
 
 ### Completed Tasks
 
@@ -42,9 +42,7 @@
 * fund_scorecard.csv
 * benchmark_chart.png
 
----
-
-## Day 5 - Dashboard Development ✅
+## Day 5 - Dashboard Development 
 
 ### Industry Overview Dashboard
 
