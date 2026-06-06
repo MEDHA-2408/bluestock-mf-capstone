@@ -70,3 +70,40 @@
 * industry_overview.png
 * fund_performance.png
 
+## Day 6: Advanced Analytics & Risk Metrics
+
+### Objectives
+
+* Computed Value at Risk (VaR) and Conditional VaR (CVaR)
+* Calculated Rolling 90-Day Sharpe Ratio
+* Performed Investor Cohort Analysis
+* Conducted SIP Continuity Analysis
+* Built a Simple Fund Recommendation Engine
+* Analyzed Portfolio Sector Concentration using HHI
+
+### Deliverables
+
+#### Reports
+
+* var_cvar_report.csv
+* rolling_sharpe_chart.png
+* cohort_analysis.csv
+* cohort_analysis.png
+* sip_continuity.csv
+* recommendations.csv
+* sector_hhi.csv
+* sector_concentration_chart.png
+
+#### Notebook
+
+* Advanced_Analytics.ipynb
+
+### Key Insights
+
+* Risk metrics identified downside exposure across selected funds.
+* Rolling Sharpe Ratio helped evaluate risk-adjusted performance over time.
+* Investor cohort analysis revealed investment trends by joining year.
+* SIP continuity analysis identified investors with large contribution gaps.
+* Recommendation model suggested funds based on risk preference.
+* HHI-based concentration analysis highlighted portfolio diversification levels.
+
