@@ -18,7 +18,11 @@
 - Portfolio Sector Allocation
 - Final EDA Summary
 
+<<<<<<< HEAD
 ## Day 4 - Fund Performance Analytics ✅
+=======
+## Day 4 - Fund Performance Analytics 
+>>>>>>> b50fa4e8377b44fd0d0c5fca7661ec955e39e035
 
 ### Completed Tasks
 
@@ -42,8 +46,10 @@
 * fund_scorecard.csv
 * benchmark_chart.png
 
-
 ## Day 5 - Dashboard Development ✅
+=======
+## Day 5 - Dashboard Development 
+>>>>>>> b50fa4e8377b44fd0d0c5fca7661ec955e39e035
 
 ### Industry Overview Dashboard
 
@@ -70,6 +76,7 @@
 * industry_overview.png
 * fund_performance.png
 
+<<<<<<< HEAD
 ## Day 6: Advanced Analytics & Risk Metrics
 
 ### Objectives
@@ -107,3 +114,4 @@
 * Recommendation model suggested funds based on risk preference.
 * HHI-based concentration analysis highlighted portfolio diversification levels.
 
+=======
