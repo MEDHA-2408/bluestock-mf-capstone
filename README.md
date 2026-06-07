@@ -1,12 +1,12 @@
 ## Progress
 
-### Day 1
+### Day 1 - Data Ingestion and ETL
 - Data Ingestion Completed
 
-### Day 2
+### Day 2 - Data Cleaning and SQL Database Design
 - Data Cleaning and Processing Completed
 
-### Day 3
+### Day 3 - Exploratory Data Analysis
 - NAV Trend Analysis
 - AUM Growth Analysis
 - SIP Trend Analysis
@@ -18,7 +18,7 @@
 - Portfolio Sector Allocation
 - Final EDA Summary
 
-## Day 4 - Fund Performance Analytics 
+### Day 4 - Fund Performance Analytics 
 
 ### Completed Tasks
 
@@ -42,7 +42,7 @@
 * fund_scorecard.csv
 * benchmark_chart.png
 
-## Day 5 - Dashboard Development 
+### Day 5 - Dashboard Development 
 
 ### Industry Overview Dashboard
 
@@ -69,7 +69,7 @@
 * industry_overview.png
 * fund_performance.png
  
-## Day 6: Advanced Analytics & Risk Metrics
+### Day 6: Advanced Analytics & Risk Metrics
 
 ### Objectives
 
@@ -96,6 +96,8 @@
 #### Notebook
 
 * Advanced_Analytics.ipynb
+* Mutual_Fund_Industry_EDA.ipynb
+* Performance_Analytics.ipynb
 
 ### Key Insights
 
